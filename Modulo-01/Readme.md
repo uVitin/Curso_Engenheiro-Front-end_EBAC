@@ -3,7 +3,7 @@ No Módulo 01, damos os primeiros passos na jornada de desenvolvimento Front-end
 
 <br>
 
-## 📎 Sumário
+## 📎  Sumário
 Descrição das aulas do módulo:
 - **Aula 01:** Explore as áreas do desenvolvimento
 - **Aula 02:** Entenda o mercado
