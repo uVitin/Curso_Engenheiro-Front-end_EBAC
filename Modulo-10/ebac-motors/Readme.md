@@ -55,5 +55,5 @@ Para visualizar uma prévia do projeto <a href="#" target="_blank"><b>clique aqu
 <br>
 
 ## 🙋🏻‍♂️ Autor
-| [<img src="https://avatars.githubusercontent.com/u/103857382?v=4" width=115><br><sub>Bruno Oliveira</sub>](https://github.com/BrunoOliveira16) |
+| [<img src="https://avatars.githubusercontent.com/u/157376153?v=4" width=115><br><sub>Albert Vitor</sub>](https://github.com/uVitin) |
 | :---: |
